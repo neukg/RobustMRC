@@ -1,0 +1,1079 @@
+{
+    "data": [
+        {
+            "title": "nli",
+            "paragraphs": [
+                {
+                    "context": "What is the step by step guide to invest in share market in india?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "What",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "What is the step by step guide to invest in share market?",
+                            "id": "0"
+                        }
+                    ]
+                },
+                {
+                    "context": "What is the story of Kohinoor (Koh-i-Noor) Diamond?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "What",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "What would happen if the Indian government stole the Kohinoor (Koh-i-Noor) diamond back?",
+                            "id": "1"
+                        }
+                    ]
+                },
+                {
+                    "context": "How can I increase the speed of my internet connection while using a VPN?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "How",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "How can Internet speed be increased by hacking through DNS?",
+                            "id": "2"
+                        }
+                    ]
+                },
+                {
+                    "context": "Why am I mentally very lonely? How can I solve it?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Why",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "Find the remainder when [math]23^{24}[/math] is divided by 24,23?",
+                            "id": "3"
+                        }
+                    ]
+                },
+                {
+                    "context": "Which one dissolve in water quikly sugar, salt, methane and carbon di oxide?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Which",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "Which fish would survive in salt water?",
+                            "id": "4"
+                        }
+                    ]
+                },
+                {
+                    "context": "Astrology: I am a Capricorn Sun Cap moon and cap rising...what does that say about me?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Astrology:",
+                                    "type": "nli",
+                                    "label": "1"
+                                }
+                            ],
+                            "question": "I'm a triple Capricorn (Sun, Moon and ascendant in Capricorn) What does this say about me?",
+                            "id": "5"
+                        }
+                    ]
+                },
+                {
+                    "context": "Should I buy tiago?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Should",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "What keeps childern active and far from phone and video games?",
+                            "id": "6"
+                        }
+                    ]
+                },
+                {
+                    "context": "How can I be a good geologist?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "How",
+                                    "type": "nli",
+                                    "label": "1"
+                                }
+                            ],
+                            "question": "What should I do to be a great geologist?",
+                            "id": "7"
+                        }
+                    ]
+                },
+                {
+                    "context": "When do you use シ instead of し?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "When",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "When do you use \"&\" instead of \"and\"?",
+                            "id": "8"
+                        }
+                    ]
+                },
+                {
+                    "context": "Motorola (company): Can I hack my Charter Motorolla DCX3400?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Motorola",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "How do I hack Motorola DCX3400 for free internet?",
+                            "id": "9"
+                        }
+                    ]
+                },
+                {
+                    "context": "Method to find separation of slits using fresnel biprism?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Method",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "What are some of the things technicians can tell about the durability and reliability of Laptops and its components?",
+                            "id": "10"
+                        }
+                    ]
+                },
+                {
+                    "context": "How do I read and find my YouTube comments?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "How",
+                                    "type": "nli",
+                                    "label": "1"
+                                }
+                            ],
+                            "question": "How can I see all my Youtube comments?",
+                            "id": "11"
+                        }
+                    ]
+                },
+                {
+                    "context": "What can make Physics easy to learn?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "What",
+                                    "type": "nli",
+                                    "label": "1"
+                                }
+                            ],
+                            "question": "How can you make physics easy to learn?",
+                            "id": "12"
+                        }
+                    ]
+                },
+                {
+                    "context": "What was your first sexual experience like?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "What",
+                                    "type": "nli",
+                                    "label": "1"
+                                }
+                            ],
+                            "question": "What was your first sexual experience?",
+                            "id": "13"
+                        }
+                    ]
+                },
+                {
+                    "context": "What are the laws to change your status from a student visa to a green card in the US, how do they compare to the immigration laws in Canada?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "What",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "What are the laws to change your status from a student visa to a green card in the US? How do they compare to the immigration laws in Japan?",
+                            "id": "14"
+                        }
+                    ]
+                },
+                {
+                    "context": "What would a Trump presidency mean for current international master’s students on an F1 visa?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "What",
+                                    "type": "nli",
+                                    "label": "1"
+                                }
+                            ],
+                            "question": "How will a Trump presidency affect the students presently in US or planning to study in US?",
+                            "id": "15"
+                        }
+                    ]
+                },
+                {
+                    "context": "What does manipulation mean?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "What",
+                                    "type": "nli",
+                                    "label": "1"
+                                }
+                            ],
+                            "question": "What does manipulation means?",
+                            "id": "16"
+                        }
+                    ]
+                },
+                {
+                    "context": "Why do girls want to be friends with the guy they reject?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Why",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "How do guys feel after rejecting a girl?",
+                            "id": "17"
+                        }
+                    ]
+                },
+                {
+                    "context": "Why are so many Quora users posting questions that are readily answered on Google?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Why",
+                                    "type": "nli",
+                                    "label": "1"
+                                }
+                            ],
+                            "question": "Why do people ask Quora questions which can be answered easily by Google?",
+                            "id": "18"
+                        }
+                    ]
+                },
+                {
+                    "context": "Which is the best digital marketing institution in banglore?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Which",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "Which is the best digital marketing institute in Pune?",
+                            "id": "19"
+                        }
+                    ]
+                },
+                {
+                    "context": "Why do rockets look white?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Why",
+                                    "type": "nli",
+                                    "label": "1"
+                                }
+                            ],
+                            "question": "Why are rockets and boosters painted white?",
+                            "id": "20"
+                        }
+                    ]
+                },
+                {
+                    "context": "What's causing someone to be jealous?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "What's",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "What can I do to avoid being jealous of someone?",
+                            "id": "21"
+                        }
+                    ]
+                },
+                {
+                    "context": "What are the questions should not ask on Quora?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "What",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "Which question should I ask on Quora?",
+                            "id": "22"
+                        }
+                    ]
+                },
+                {
+                    "context": "How much is 30 kV in HP?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "How",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "Where can I find a conversion chart for CC to horsepower?",
+                            "id": "23"
+                        }
+                    ]
+                },
+                {
+                    "context": "What does it mean that every time I look at the clock the numbers are the same?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "What",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "How many times a day do a clock’s hands overlap?",
+                            "id": "24"
+                        }
+                    ]
+                },
+                {
+                    "context": "What are some tips on making it through the job interview process at Medicines?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "What",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "What are some tips on making it through the job interview process at Foundation Medicine?",
+                            "id": "25"
+                        }
+                    ]
+                },
+                {
+                    "context": "What is web application?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "What",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "What is the web application framework?",
+                            "id": "26"
+                        }
+                    ]
+                },
+                {
+                    "context": "Does society place too much importance on sports?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Does",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "How do sports contribute to the society?",
+                            "id": "27"
+                        }
+                    ]
+                },
+                {
+                    "context": "What is best way to make money online?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "What",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "What is best way to ask for money online?",
+                            "id": "28"
+                        }
+                    ]
+                },
+                {
+                    "context": "How should I prepare for CA final law?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "How",
+                                    "type": "nli",
+                                    "label": "1"
+                                }
+                            ],
+                            "question": "How one should know that he/she completely prepare for CA final exam?",
+                            "id": "29"
+                        }
+                    ]
+                },
+                {
+                    "context": "What's one thing you would like to do better?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "What's",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "What's one thing you do despite knowing better?",
+                            "id": "30"
+                        }
+                    ]
+                },
+                {
+                    "context": "What are some special cares for someone with a nose that gets stuffy during the night?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "What",
+                                    "type": "nli",
+                                    "label": "1"
+                                }
+                            ],
+                            "question": "How can I keep my nose from getting stuffy at night?",
+                            "id": "31"
+                        }
+                    ]
+                },
+                {
+                    "context": "What Game of Thrones villain would be the most likely to give you mercy?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "What",
+                                    "type": "nli",
+                                    "label": "1"
+                                }
+                            ],
+                            "question": "What Game of Thrones villain would you most like to be at the mercy of?",
+                            "id": "32"
+                        }
+                    ]
+                },
+                {
+                    "context": "Does the United States government still blacklist (employment, etc.) some United States citizens because their political views?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Does",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "How is the average speed of gas molecules determined?",
+                            "id": "33"
+                        }
+                    ]
+                },
+                {
+                    "context": "What is the best travel website in spain?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "What",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "What is the best travel website?",
+                            "id": "34"
+                        }
+                    ]
+                },
+                {
+                    "context": "Why do some people think Obama will try to take their guns away?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Why",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "Has there been a gun control initiative to take away guns people already own?",
+                            "id": "35"
+                        }
+                    ]
+                },
+                {
+                    "context": "I'm a 19-year-old. How can I improve my skills or what should I do to become an entrepreneur in the next few years?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "I'm",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "I am a 19 year old guy. How can I become a billionaire in the next 10 years?",
+                            "id": "36"
+                        }
+                    ]
+                },
+                {
+                    "context": "When a girlfriend asks her boyfriend \"Why did you choose me? What makes you want to be with me?\", what should one reply to her?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "When",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "My girlfriend said that we should end this because she is confused about her feelings for me. I wished her well and disconnected. Should I call her and ask her if she wants to get back together?",
+                            "id": "37"
+                        }
+                    ]
+                },
+                {
+                    "context": "How do we prepare for UPSC?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "How",
+                                    "type": "nli",
+                                    "label": "1"
+                                }
+                            ],
+                            "question": "How do I prepare for civil service?",
+                            "id": "38"
+                        }
+                    ]
+                },
+                {
+                    "context": "What is the stall speed and AOA of an f-14 with wings fully swept back?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "What",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "Why did aircraft stop using variable-sweep wings, like those on an F-14?",
+                            "id": "39"
+                        }
+                    ]
+                },
+                {
+                    "context": "Why do Slavs squat?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Why",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "Will squats make my legs thicker?",
+                            "id": "40"
+                        }
+                    ]
+                },
+                {
+                    "context": "When can I expect my Cognizant confirmation mail?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "When",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "When can I expect Cognizant confirmation mail?",
+                            "id": "41"
+                        }
+                    ]
+                },
+                {
+                    "context": "Can I make 50,000 a month by day trading?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Can",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "Can I make 30,000 a month by day trading?",
+                            "id": "42"
+                        }
+                    ]
+                },
+                {
+                    "context": "Is being a good kid and not being a rebel worth it in the long run?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Is",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "Is being bored good for a kid?",
+                            "id": "43"
+                        }
+                    ]
+                },
+                {
+                    "context": "What universities does Rexnord recruit new grads from? What majors are they looking for?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "What",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "What universities does B&G Foods recruit new grads from? What majors are they looking for?",
+                            "id": "44"
+                        }
+                    ]
+                },
+                {
+                    "context": "What is the quickest way to increase Instagram followers?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "What",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "How can we increase our number of Instagram followers?",
+                            "id": "45"
+                        }
+                    ]
+                },
+                {
+                    "context": "How did Darth Vader fought Darth Maul in Star Wars Legends?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "How",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "Does Quora have a character limit for profile descriptions?",
+                            "id": "46"
+                        }
+                    ]
+                },
+                {
+                    "context": "What are the stages of breaking up between couple? I mean, what happens after the breaking up emotionally whether its a male or female?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "What",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "Who is affected more by a breakup, the boy or the girl?",
+                            "id": "47"
+                        }
+                    ]
+                },
+                {
+                    "context": "What are some examples of products that can be make from crude oil?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "What",
+                                    "type": "nli",
+                                    "label": "1"
+                                }
+                            ],
+                            "question": "What are some of the products made from crude oil?",
+                            "id": "48"
+                        }
+                    ]
+                },
+                {
+                    "context": "How do I make friends.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "How",
+                                    "type": "nli",
+                                    "label": "1"
+                                }
+                            ],
+                            "question": "How to make friends ?",
+                            "id": "49"
+                        }
+                    ]
+                },
+                {
+                    "context": "Is Career Launcher good for RBI Grade B preparation?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Is",
+                                    "type": "nli",
+                                    "label": "1"
+                                }
+                            ],
+                            "question": "How is career launcher online program for RBI Grade B?",
+                            "id": "50"
+                        }
+                    ]
+                },
+                {
+                    "context": "Will a Blu Ray play on a regular DVD player? If so, how?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Will",
+                                    "type": "nli",
+                                    "label": "1"
+                                }
+                            ],
+                            "question": "How can you play a Blu Ray DVD on a regular DVD player?",
+                            "id": "51"
+                        }
+                    ]
+                },
+                {
+                    "context": "Nd she is always sad?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Nd",
+                                    "type": "nli",
+                                    "label": "0"
+                                }
+                            ],
+                            "question": "Aerodynamically what happens when propellor rotates?",
+                            "id": "52"
+                        }
+                    ]
+                },
+                {
+                    "context": "What is the best/most memorable thing you've ever eaten and why?",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "What",
+                                    "type": "nli",
+                                    "label": "1"
+                                }
+                            ],
+                            "question": "What is the most delicious dish you've ever eaten and why?",
+                            "id": "53"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "University_of_Notre_Dame",
+            "paragraphs": [
+                {
+                    "context": "Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend \"Venite Ad Me Omnes\". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 515,
+                                    "text": "Saint Bernadette Soubirous",
+                                    "type": "qa",
+                                    "label": 2
+                                }
+                            ],
+                            "question": "To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?",
+                            "id": "5733be284776f41900661182"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 188,
+                                    "text": "a copper statue of Christ",
+                                    "type": "qa",
+                                    "label": 2
+                                }
+                            ],
+                            "question": "What is in front of the Notre Dame Main Building?",
+                            "id": "5733be284776f4190066117f"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 279,
+                                    "text": "the Main Building",
+                                    "type": "qa",
+                                    "label": 2
+                                }
+                            ],
+                            "question": "The Basilica of the Sacred heart at Notre Dame is beside to which structure?",
+                            "id": "5733be284776f41900661180"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 381,
+                                    "text": "a Marian place of prayer and reflection",
+                                    "type": "qa",
+                                    "label": 2
+                                }
+                            ],
+                            "question": "What is the Grotto at Notre Dame?",
+                            "id": "5733be284776f41900661181"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 92,
+                                    "text": "a golden statue of the Virgin Mary",
+                                    "type": "qa",
+                                    "label": 2
+                                }
+                            ],
+                            "question": "What sits on top of the Main Building at Notre Dame?",
+                            "id": "5733be284776f4190066117e"
+                        }
+                    ]
+                },
+                {
+                    "context": "As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 248,
+                                    "text": "September 1876",
+                                    "type": "qa",
+                                    "label": 2
+                                }
+                            ],
+                            "question": "When did the Scholastic Magazine of Notre dame begin publishing?",
+                            "id": "5733bf84d058e614000b61be"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 441,
+                                    "text": "twice",
+                                    "type": "qa",
+                                    "label": 2
+                                }
+                            ],
+                            "question": "How often is Notre Dame's the Juggler published?",
+                            "id": "5733bf84d058e614000b61bf"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 598,
+                                    "text": "The Observer",
+                                    "type": "qa",
+                                    "label": 2
+                                }
+                            ],
+                            "question": "What is the daily student paper at Notre Dame called?",
+                            "id": "5733bf84d058e614000b61c0"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 126,
+                                    "text": "three",
+                                    "type": "qa",
+                                    "label": 2
+                                }
+                            ],
+                            "question": "How many student news papers are found at Notre Dame?",
+                            "id": "5733bf84d058e614000b61bd"
+                        },
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 908,
+                                    "text": "1987",
+                                    "type": "qa",
+                                    "label": 2
+                                }
+                            ],
+                            "question": "In what year did the student paper Common Sense begin publication at Notre Dame?",
+                            "id": "5733bf84d058e614000b61c1"
+                        }
+                    ]
+                },
+                {
+                    "context": "The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching.",
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 119,
+                                    "text": "Rome",
+                                    "type": "qa",
+                                    "label": 2
+                                }
+                            ],
+                            "question": "Where is the headquarters of the Congregation of the Holy Cross?",
+                            "id": "5733bed24776f41900661188"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
